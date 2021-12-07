@@ -3,3 +3,16 @@ These are markdown _italics_. You can use italics when you want to stress an imp
 They are created by surrounding your words with _ on both sides.
 
 [Back to readme](README.md)
+
+[Bold](bold.md)
+
+[Strike Through](strkthru.md)
+
+[Block Quote](blkqt.md)
+
+[Nested Block Quote](nstblkqt.md)
+
+[Ordered Lists](ordlst.md)
+
+[Unordered Lists](unordlst.md)
+
