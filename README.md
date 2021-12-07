@@ -6,7 +6,7 @@
 
 ### Target Audience: My target audience for this project will be future students of this class. So that could technically be any age, but would probably most typically fall into to 19-23 year old range.
 
-### Summary: Teaching Markdown features by coding Markdown pages provides me the oppurtnity to show the features of Markdown through both direct and indirect teaching. For example my use of links and headings are indirect teachings. However, I have certain pages dedicated to the direct teachings of things such as **bolding**, *italicizing*, or ~~striking through~~ words. I hope that the project can be used by future students to help give them a plethora of examples of what Markdown can do and how they can use it.
+### Summary: Teaching Markdown features by coding Markdown pages provides me the oppurtunity to show the features of Markdown through both direct and indirect teaching. For example my use of links and headings are indirect teachings. However, I have certain pages dedicated to the direct teachings of things such as **bolding**, *italicizing*, or ~~striking through~~ words. I hope that the project can be used by future students to help give them a plethora of examples of what Markdown can do and how they can use it.
 
 [Italics](italics.md)
 
